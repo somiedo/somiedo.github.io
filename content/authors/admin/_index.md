@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Pablo García
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Pablo García
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pablo
+last_name: García
 
 # Status emoji
 status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Bioinformatician
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Tragsatec
+    url: https://www.tragsa.es/es/Paginas/default.aspx
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:pablo.somiedo@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -183,4 +183,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a qualified biologist and bioinformatician and my professional experience in the IT consulting field for over 10 years has convinced me of the importance of applying new technologies to extract relevant information from data in the constant search for solutions and knowledge. I have a master's degree in bioinformatics and Biostatistics from UOC and the University of Barcelona and my final work is focused on Generative Adversarial Networks with multiple discriminators.
+
